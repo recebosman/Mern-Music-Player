@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input{
+    height: 40px;
+    border: 1px solid rgb(68, 57, 57);
+}
+
+input:focus{
+    outline: none;
+}
+
+body{
+    background-color: rgb(68, 57, 57);
+}
